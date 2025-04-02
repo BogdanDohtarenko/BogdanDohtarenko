@@ -1,6 +1,8 @@
 ## Hi there 👋
 <div id="badges">
+  <a href="https://www.linkedin.com/in/bogdan-dokhtarenko-736b6a290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 <!--
 **BogdanDohtarenko/BogdanDohtarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
