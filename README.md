@@ -17,5 +17,4 @@ Hi there, i am an Android Developer <img src="https://media.giphy.com/media/WUlp
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BogdanDohtarenko&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BogdanDohtarenko&theme=dark&exclude_days=Sun)](https://git.io/streak-stats)
