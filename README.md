@@ -6,7 +6,7 @@
 
 ### 🧑‍💻: About Me :
 Hi there, i am an Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-My pet project that i am working on now is - pet emotions. You can read everything in it readme
+My pet project that i am working on now is pet emotions. You can read everything in it's readme
 
 ### :hammer_and_wrench: Languages and Tools :
 <div> 
